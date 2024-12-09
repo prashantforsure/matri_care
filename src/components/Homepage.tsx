@@ -178,7 +178,7 @@ export default function HomePage() {
                 </span>
                 <div className="hidden md:flex space-x-6">
                   <Button variant="ghost">
-                    <Link href="/courses">Blog</Link>
+                    <Link href="/blogs">Blog</Link>
                   </Button>
                   <Button variant="ghost">About</Button>
                   <Button variant="ghost">Contact</Button>
@@ -478,7 +478,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-gray-200 text-center">
-            <p className="text-gray-600">&copy; 2023 Matri Care. All rights reserved.</p>
+            <p className="text-gray-600">&copy; 2024 Matri Care. All rights reserved.</p>
           </div>
         </div>
       </footer>
